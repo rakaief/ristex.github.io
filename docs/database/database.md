@@ -10,7 +10,4 @@ has_children: true
 # Eksplorasi Database
 {: .no_toc }
 
-## Daftar Isi
-{: .no_toc .text-delta }
-
 Eksplorasi database adalah kegiatan mengeksplorasi konsep, tools, dan penggunaan Database.

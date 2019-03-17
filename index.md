@@ -6,6 +6,6 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-## Website Dokumentasi RistEx URO ITB
+# Website Dokumentasi RistEx URO ITB
 
 Website ini berisi dokumentasi eksplorasi ilmu pengetahuan yang dilakukan anggota tim Riset dan Eksplorasi URO ITB
