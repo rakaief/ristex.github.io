@@ -1,1 +1,8 @@
+title: ristex.github.io
 remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
+
+search_enabled: true
+aux_links:
+  "Ristex - Medium": 
+    - "https://medium.com/ristex"
